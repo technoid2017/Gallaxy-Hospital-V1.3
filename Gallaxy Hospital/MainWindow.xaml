@@ -1,0 +1,26 @@
+﻿<Window x:Class="Gallaxy_Hospital.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="900" Width="1200" WindowStartupLocation="CenterScreen" DataContext="{Binding}" ResizeMode="CanResize" WindowState="Maximized" VerticalContentAlignment="Stretch" Name="Login" UseLayoutRounding="False" Icon="/Gallaxy%20Hospital;component/Images/splash1.png">
+    <Grid Height="900" Width="1200">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="5" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Canvas Height="291" HorizontalAlignment="Left" Margin="12,484,0,0" Name="canvas1" VerticalAlignment="Top" Width="582">
+            <Label Content=" User Name" Height="30" Name="label1" Width="130" Canvas.Left="37" Canvas.Top="39" FontSize="16" />
+            <Label Content="Password" Height="30" Name="label2" Width="130" Canvas.Left="42" Canvas.Top="104" FontSize="16" />
+            <TextBox Height="30" Name="Txt_UserName" Width="200" HorizontalContentAlignment="Left" IsHitTestVisible="True" Canvas.Left="178" Canvas.Top="39" HorizontalAlignment="Left" />
+            <PasswordBox Height="30" Name="passwordBox1" Width="200" Canvas.Left="178" Canvas.Top="104" HorizontalAlignment="Left" />
+            <Button Content="SUBMIT" Height="40" Name="submit" Width="150" Click="button1_Click" Canvas.Left="82" Canvas.Top="189" FontSize="20" />
+            <Button Content="CANCEL" Height="40" Name="button2" Width="150" Canvas.Left="260" Canvas.Top="189" FontSize="20" Click="button2_Click" />
+        </Canvas>
+        
+
+        <GridSplitter Grid.Column="1" Width="5" HorizontalAlignment="Stretch" />
+        <Image Height="468" HorizontalAlignment="Stretch" Margin="10,10,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="Auto" Source="/Gallaxy%20Hospital;component/Images/bg-amar.jpg"></Image>
+        <Image Margin="12,12,0,38" Name="image2" Stretch="Fill" Grid.Column="2" Source="/Gallaxy%20Hospital;component/Images/orchids.jpg" HorizontalAlignment="Left" Width="567.5"></Image> 
+    </Grid>
+</Window>

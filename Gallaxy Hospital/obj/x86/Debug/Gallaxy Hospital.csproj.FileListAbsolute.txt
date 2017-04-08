@@ -1,0 +1,202 @@
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MainWindow.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MainWindow.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\App.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital_MarkupCompile.cache
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.g.resources
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Properties.Resources.resources
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.csproj.GenerateResource.Cache
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.pdb
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.exe
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.pdb
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe.config
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Dashboard.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Dashboard.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\IPD.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\IPD.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MedicineBill.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MedicineBill.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.WindowGraph.resources
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Graphs.resources
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Admin.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Admin.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.g.cs
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Splash.baml
+H:\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Splash.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe.config
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.pdb
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Accounts.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Admin.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Dashboard.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\IPD.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MainWindow.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MedicineBill.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Splash.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Accounts.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Admin.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Dashboard.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\IPD.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MedicineBill.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Splash.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\App.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital_MarkupCompile.cache
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.g.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Graphs.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.PrintMedicine.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Properties.Resources.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ReportAdmission.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.WindowGraph.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.csproj.GenerateResource.Cache
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.exe
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.pdb
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ReportDischarge.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Technoid\Desktop\Gallaxy Hospital\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.PrintDischarge.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe.config
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.exe
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.pdb
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Accounts.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Admin.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Dashboard.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\IPD.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MainWindow.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MedicineBill.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Splash.baml
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Accounts.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Admin.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Dashboard.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\IPD.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MedicineBill.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Splash.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\App.g.cs
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital_MarkupCompile.cache
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.g.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Graphs.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.PrintDischarge.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.PrintMedicine.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Properties.Resources.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ReportAdmission.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ReportDischarge.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.WindowGraph.resources
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.csproj.GenerateResource.Cache
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.pdb
+C:\Users\Technoid\Desktop\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ServiceBill.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe.config
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.exe
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.pdb
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.pdb
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Accounts.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Admin.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Dashboard.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\IPD.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MainWindow.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MedicineBill.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Splash.baml
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Accounts.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Admin.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Dashboard.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\IPD.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MainWindow.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\MedicineBill.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Splash.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\App.g.cs
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital_MarkupCompile.cache
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.g.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Graphs.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.PrintDischarge.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.PrintMedicine.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Properties.Resources.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ReportAdmission.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ReportDischarge.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ServiceBill.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.WindowGraph.resources
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\KALPESH APPS\Gallaxy Hospital v1.1\Gallaxy Hospital\Gallaxy Hospital\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe.config
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.exe
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.pdb
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.exe
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\bin\Debug\Gallaxy Hospital.pdb
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Accounts.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Admin.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Dashboard.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\IPD.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\MainWindow.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\MedicineBill.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Splash.baml
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Accounts.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Admin.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\AdmissionMuster.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Dashboard.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\DeleteWarning.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\DischargeMuster.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\IPD.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\MainWindow.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\MedicineBill.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\ResetPassword1.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\ResetPassword2.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Splash.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\App.g.cs
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital_MarkupCompile.cache
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy Hospital.g.resources
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Graphs.resources
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.PrintDischarge.resources
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.PrintMedicine.resources
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.Properties.Resources.resources
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ReportAdmission.resources
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ReportDischarge.resources
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.ServiceBill.resources
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\Gallaxy_Hospital.WindowGraph.resources
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\KALPESH APPS\Gallaxy Hospital V1.2\Gallaxy Hospital\obj\x86\Debug\GenerateResource.write.1.tlog

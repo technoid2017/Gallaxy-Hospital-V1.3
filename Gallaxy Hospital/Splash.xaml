@@ -1,0 +1,11 @@
+﻿<Window x:Class="Gallaxy_Hospital.Splash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Splash" Height="348" Width="741" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen" BorderThickness="5" BorderBrush="AliceBlue" >
+    <Grid Width="627">
+        
+    </Grid>
+    <Window.Background>
+        <ImageBrush ImageSource="/Gallaxy%20Hospital;component/Images/splash11.png" />
+    </Window.Background>
+</Window>

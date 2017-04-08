@@ -1,0 +1,10 @@
+﻿<Window x:Class="Gallaxy_Hospital.DeleteWarning"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DeleteWarning" Height="150" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid Height="100" Width="400">
+        <Label Content="The entry will be deleted permenantly. Are you sure?" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" Width="350" Foreground="#FFBA3737" FontSize="14" />
+        <Button Content="Yes" Height="23" HorizontalAlignment="Left" Margin="98,65,0,0" Name="bttnYes" VerticalAlignment="Top" Width="75" Click="bttnYes_Click" />
+        <Button Content="No" Height="23" HorizontalAlignment="Right" Margin="0,65,131,0" Name="bttnNo" VerticalAlignment="Top" Width="75" Click="bttnNo_Click" />
+    </Grid>
+</Window>
